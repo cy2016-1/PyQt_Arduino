@@ -41,7 +41,7 @@
 
 这是我的机械臂：
 
-<img src="C:/Users/xiunian/Pictures/psb.jpg" style="zoom:50%;" />
+<img src="README.assets/psb.jpg" style="zoom:50%;" />
 
 在pycharm里运行上位机程序：
 
@@ -55,6 +55,16 @@
 
 <img src="README.assets/bandicam 2019-10-05 15-14-50-2422.gif"  />
 
+
+
 拖动控制舵机角度
 
 <img src="README.assets/bandicam 2019-10-05 15-20-26-7061.gif" alt="bandicam 2019-10-05 15-20-26-706~1"  />
+
+
+
+组合控制还没有做，下载动作组与运行下载动作组部分也没有做完。
+
+源代码地址：https://gitee.com/tangbeida/PyQt_Arduino
+
+
