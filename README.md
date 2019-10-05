@@ -9,15 +9,15 @@
 
 #### 开发环境
 
-**系统：**windows10
+**系统：** windows10
 
 **处理器:** Intel(R) Core(TM)i7-8550U CPU @ 1.8GHz  2.00GHz
 
-**开发软件：**Pycharm 2017.1
+**开发软件：** Pycharm 2017.1
 
-**Python版本：**python3.7
+**Python版本：** python3.7
 
-**QT版本：**PyQt5
+**QT版本：** PyQt5
 
 
 
@@ -53,8 +53,8 @@
 
 选择端口号和波特率，点击打开串口
 
-![bandicam 2019-10-05 15-14-50-242~2](README.assets/bandicam 2019-10-05 15-14-50-2422.gif)
+<img src="README.assets/bandicam 2019-10-05 15-14-50-2422.gif"  />
 
 拖动控制舵机角度
 
-![bandicam 2019-10-05 15-20-26-706~1](README.assets/bandicam 2019-10-05 15-20-26-7061.gif)
+<img src="README.assets/bandicam 2019-10-05 15-20-26-7061.gif" alt="bandicam 2019-10-05 15-20-26-706~1"  />
